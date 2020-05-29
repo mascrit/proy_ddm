@@ -4,9 +4,9 @@
 - 1 74LS175 -- FlipFlop D
 - 1 Sn74ls42n(*7442*) -- Decodificador Bcd A Decimal 
 - 2 *7404* -- Compuertas NOT
-- 2 *74HC11* -- Compuertas OR de 3 entradas
-- 2 *Cd4072be* -- Compuertas OR de 4 entradas
-- 4 *74LS32* -- Compuertas OR de 2 entradas EN CASO DE QUE NO SE CONSIGUAN LAS DOS ANTERIORES
+- 1 *74HC11* -- Compuertas OR de 3 entradas
+- 1 *Cd4072be* -- Compuertas OR de 4 entradas
+- 1 *74LS32* -- Compuertas OR de 2 entradas EN CASO DE QUE NO SE CONSIGUAN LAS DOS ANTERIORES COMPRAR 4 DE ESTAS
 - 1 *555* -- Reloj
 - Resistencia
   - 1k
